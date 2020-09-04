@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Blog 0"
+date:   2020-09-03 14:23:56 -0700
+categories: Fall 2020 CIT 480
+author: "Lance Arjona"
+permalink: "/Blog-0/"
+---
+<h3>Getting Started</h3>
+<p>
+At first I was very intimidated attempting this assignment because I was not 100% sure what I was doing but after seeing the <a href="https://www.youtube.com/watch?v=pxua_1vyFck">Youtube link</a> from Samvel Vardanyan I was able to set up the first few steps to this blog.
+
+Once everything was set up I started to play around with the editor and was enjoying seeing the changes I was making in Visual Studio Code being transferred to my browser. It felt like magic. Since I am learning HTML in my CIT 384 class I decided to put it into practice by adding headers, links, and formatting.
+<h3>What I Learned</h3>
+Used Jekyll for the first time
+</p>
+
+<b>How to add Permalinks</b>
+<p>
+I wanted to to clean up my URL so I added a permalink so I can easily switch to my other Blog pages just by changing the number if I wanted to. I find it cleaner than a link with dates and string.
+{% highlight html %}
+permalink: "/Blog-0/"
+{% endhighlight %}
+</p>
+
+
+<h3>What I Struggled with</h3>
+
+My biggest struggle was being able syncing my files to my repository. 
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Blog 1"
+date:   2020-09-04 14:23:56 -0700
+categories: Fall 2020 CIT 480
+author: "Lance Arjona"
+permalink: "/Blog-1/"
+---
+Testing text
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
