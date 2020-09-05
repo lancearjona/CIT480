@@ -25,8 +25,4 @@ permalink: "/Blog-0/"
 
 
 <h3>What I Struggled with</h3>
-
-My biggest struggle was being able syncing my files to my repository. 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+My biggest struggle was being able syncing my files to my repository. It took me a couple of tries but I as able to do so after following this <a href="https://www.youtube.com/watch?v=wrb7Gge9yoE">video</a>. It took me an hour to realize everything was already uploaded since I was getting errors in the terminal and thought I was doing something wrong.
