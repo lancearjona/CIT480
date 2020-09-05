@@ -12,7 +12,7 @@ At first I was very intimidated attempting this assignment because I was not 100
 
 Once everything was set up I started to play around with the editor and was enjoying seeing the changes I was making in Visual Studio Code being transferred to my browser. It felt like magic. Since I am learning HTML in my CIT 384 class I decided to put it into practice by adding headers, links, and formatting.
 <h3>What I Learned</h3>
-Used Jekyll for the first time
+This was my first time using Jekyll. The installation was easy and coding it was a breeze since I was already familiar with HTML so I was able implement things I've already learned along with learning something new.
 </p>
 
 <b>How to add Permalinks</b>
